@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently studying at Télécom Paris.
+I'm learning the basics about computer science, including python and C.
+I don't know much yet, but I'm eager to learn things :)
